@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"gitlens.currentLine.enabled": true,
+		"gitlens.hovers.currentLine.over": "line"
+	}
+}
